@@ -43,6 +43,8 @@ Correlação entre quantidade de escolas particulares e notas.
 Comparação entre municípios com maior e menor presença de escolas privadas.
 
 Visualizações
+<img width="885" height="790" alt="image" src="https://github.com/user-attachments/assets/c07e46c8-bc62-4cf6-b7ae-24411ae4d391" />
+
 
 Gráficos de dispersão (renda × nota).
 
