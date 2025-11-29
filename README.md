@@ -1,9 +1,9 @@
-📘 README – Análise ENEM 2024 (SP)
+
 🎯 Objetivo
 Este projeto tem como objetivo analisar os microdados do ENEM 2024, verificando se fatores socioeconômicos — como renda média dos participantes e a quantidade de escolas particulares em cada município de São Paulo — impactam no desempenho dos alunos nas provas (notas de redação e áreas de conhecimento).
 
 📂 Fonte dos Dados
-Os dados utilizados foram extraídos do portal oficial do INEP: 👉 Microdados ENEM – INEP
+Os dados utilizados foram extraídos do portal oficial do INEP: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
 
 A análise combina:
 
